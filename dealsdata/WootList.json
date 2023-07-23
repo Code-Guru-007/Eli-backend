@@ -1,0 +1,10 @@
+{
+    "Categories for Woot.com": {
+        "Computers": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=pc", 10],
+        "Electronics": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=tech", 10],
+        "Grosary & Household": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=grocery", 10],
+        "Home & Kitchen": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=home", 10],
+        "Sports & Outdoors": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=sport", 10],
+        "Tools & Garden": ["https://www.woot.com/alldeals?ref=w_ngh_et_1&selectedCategories=tools", 10]
+    }
+}

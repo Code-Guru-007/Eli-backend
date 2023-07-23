@@ -1,0 +1,1 @@
+start ./dealsdata/amazon.exe

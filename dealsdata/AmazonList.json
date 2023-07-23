@@ -1,0 +1,13 @@
+{
+   "Electronics and Technology":
+   {
+      "Televisions": ["https://www.amazon.com/s?k=Televisions&crid=1MW79ESMS55ZO&sprefix=televisions%2Caps%2C221&ref=nb_sb_noss_1", 15],
+      "Laptops and Computers": ["https://www.amazon.com/s?k=laptops+and+computers&crid=2JV3UM83DFBR1&sprefix=laptops+and+computers%2Caps%2C151&ref=nb_sb_noss_1", 10]
+   },
+
+   "Fashion and Apparel":
+   {
+      "Clothing": ["https://www.amazon.com/s?k=clothing&crid=271WVZIKQZ46G&sprefix=clothing%2Caps%2C159&ref=nb_sb_noss_2", 30],
+      "Shoes": ["https://www.amazon.com/s?k=shoes&crid=30WNCGC83BF6G&sprefix=shoes%2Caps%2C193&ref=nb_sb_noss_1", 30]
+   }
+}

@@ -1,0 +1,56 @@
+{
+   "Electronics and Technology":
+   {
+      "Televisions": ["https://www.bestbuy.com/site/searchpage.jsp?st=televisions&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 15],
+      "Laptops and Computers": ["https://www.bestbuy.com/site/searchpage.jsp?st=Laptops+and+Computers&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "Smartphones": ["https://www.bestbuy.com/site/electronics/mobile-cell-phones/abcat0800000.c?id=abcat0800000&#58;", 10],
+      "Cameras": ["https://www.bestbuy.com/site/searchpage.jsp?st=Cameras&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 15],
+      "Gaming Consoles": ["https://www.bestbuy.com/site/searchpage.jsp?st=Gaming+Consoles&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys",10]
+   },
+
+   "Fashion and Apparel":
+   {
+      "Clothing": ["https://www.bestbuy.com/site/searchpage.jsp?st=clothing&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Shoes": ["https://www.bestbuy.com/site/searchpage.jsp?st=Shoes&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Accessories": ["https://www.bestbuy.com/site/searchpage.jsp?st=Accessories&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Jewelry": ["https://www.bestbuy.com/site/searchpage.jsp?st=Jewelry&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20],
+      "Watches": ["https://www.bestbuy.com/site/searchpage.jsp?st=Watches&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20]
+   },
+
+   "Home and Kitchen":
+   {
+      "Furniture": ["https://www.bestbuy.com/site/searchpage.jsp?st=Furniture&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20],
+      "Appliances (refrigerators, washing machines, etc)": ["https://www.bestbuy.com/site/searchpage.jsp?st=Appliances+%28refrigerators%2C+washing+machines%2C+etc%29&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "Cookware and Kitchenware": ["https://www.bestbuy.com/site/searchpage.jsp?st=Cookware+and+Kitchenware&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Home Decor": ["https://www.bestbuy.com/site/searchpage.jsp?st=Home+Decor&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Bedding and Bath": ["https://www.bestbuy.com/site/searchpage.jsp?st=Bedding+and+Bath&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys",30]
+   },
+
+   "Beauty and Personal Care":
+   {
+      "Skincare": ["https://www.bestbuy.com/site/searchpage.jsp?st=Skincare&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20],
+      "Makeup": ["https://www.bestbuy.com/site/searchpage.jsp?st=Makeup&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20],
+      "Haircare": ["https://www.bestbuy.com/site/searchpage.jsp?st=Haircare&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 20],
+      "Fragrances": ["https://www.bestbuy.com/site/searchpage.jsp?st=Fragrances&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 15],
+      "Personal Care Appliances": ["https://www.bestbuy.com/site/searchpage.jsp?st=Personal+Care+Appliances&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10]
+   },
+
+   "Sports and Fitness":
+   {
+      "Exercise Equipment": ["https://www.bestbuy.com/site/searchpage.jsp?st=Exercise+Equipment&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "Sports Apparel": ["https://www.bestbuy.com/site/searchpage.jsp?st=Sports+Apparel&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Athletic Shoes": ["https://www.bestbuy.com/site/searchpage.jsp?st=Athletic+Shoes&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Outdoor Gear": ["https://www.bestbuy.com/site/searchpage.jsp?st=Outdoor+Gear&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Fitness Trackers": ["https://www.bestbuy.com/site/searchpage.jsp?st=Fitness+Trackers&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys",10]
+   },
+
+   "Books, Music, and Media":
+   {
+      "Books": ["https://www.bestbuy.com/site/searchpage.jsp?st=Books&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 30],
+      "Music": ["https://www.bestbuy.com/site/searchpage.jsp?st=Music&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "Movies and TV Shows": ["https://www.bestbuy.com/site/searchpage.jsp?st=Movies+and+TV+Shows&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "Video Games": ["https://www.bestbuy.com/site/searchpage.jsp?st=Video+Games&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10],
+      "E-books and Audiobooks": ["https://www.bestbuy.com/site/searchpage.jsp?st=E-books+and+Audiobooks&_dyncharset=UTF-8&_dynSessConf=&id=pcat17071&type=page&sc=Global&cp=1&nrp=&sp=&qp=&list=n&af=true&iht=y&usc=All+Categories&ks=960&keys=keys", 10]
+   }
+
+}
